@@ -1,0 +1,324 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+header{
+    color: white;
+    background-image: url(handstypingonlaptop.png);
+    background-size: cover;
+    height: 700px; 
+}
+nav{
+    display: flex;
+    margin-top: 20px;
+}
+.home{
+    color: rgb(37, 154, 154);
+}
+nav h4{
+    margin-left: 150px;
+    font-size: 25px;  
+    color:  rgb(37, 154, 154);
+}
+header nav ul{
+    margin-top: 35px;
+    margin-left: 450px;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+header h5{
+    font-size: 18px;
+}
+header div {
+    text-align: center;
+    margin-top: 200px;  
+}
+header h1{
+    font-size: 45px ;
+}
+hr{
+    width: 280px;
+}
+.button1{
+    margin-top: 30px;
+    padding: 15px;
+    width: 180px;
+    background-color:  rgb(37, 154, 154);
+    color: white;
+    border: none;
+    font-size: 17px;
+    height: 60px;  
+}
+.button2{
+    padding: 15px;
+    width: 180px;
+    background: none;
+    color: white;
+    border: solid 5px white;
+    font-size: 17px;
+}
+.section1{
+    margin-top: 100px;
+}
+.Services  i{
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+}
+.whatwedo {
+    text-align: center;
+    font-size: 20px;
+} 
+.whatwedo b {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 154, 154);
+}
+.Services{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.section2{
+    background-color: rgb(74, 74, 74);
+    height: 700px;
+    margin-top: 100px; 
+}
+.section2 h1{
+    padding-top: 50px;
+}
+.ouragency {
+    text-align: center;
+    font-size: 20px;
+    color: white;  
+} 
+.ouragency b {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 154, 154);  
+}
+.digitalteam{
+    display: flex;
+    gap: 30px;
+}
+.digitalteam h2 {
+    font-size: 30px;
+}
+.digitalteam h2 p{
+    font-size: 25px;
+}
+.digitalteam img{
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.bestdesignagency{
+    margin-top: 55px ;
+    color: white;
+}
+.bestdesignagency ul{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin-top: 40px;
+    font-size: 19px;
+}
+.bestdesignagency p{
+    font-size: 19px;
+}
+.hr2{
+    width: 500px;
+    margin-left: 30px;
+}
+.section3{
+    margin-top: 100px;
+}
+.ourportfolio {
+    text-align: center;
+    font-size: 20px;
+} 
+.ourportfolio b {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 154, 154);
+}
+.section3 ul{
+    list-style: none;
+    display: flex;
+    margin-left: 450px; 
+    margin-top: 130px;
+    gap: 50px;
+    color: grey;
+}
+.all{
+    color: rgb(37, 154, 154);
+}
+.allportfolioitems{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    margin-top: 50px;  
+    justify-content: center;
+    gap: 20px;
+}
+.allportfolioitems img{
+    width: 470px;
+    height: 300px;
+}
+.section4{
+    margin-top: 200px;
+}
+.ourpricing {
+    text-align: center;
+    font-size: 20px;
+} 
+.ourpricing b {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 154, 154);
+}
+.section4  h1 b{
+    font-size: 50px;
+}
+.pricingdetails{
+    display: flex;    
+}
+.pricingdetails div{
+    width: 400px;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.249);
+    margin-top: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.container{
+    box-shadow:  0px 0px 5px 5px rgba(20, 2, 2, 0.032);
+    border:  solid 2px white ;
+}
+.container h2{
+    margin-top: 100px;
+}
+.container ul{
+    margin-top: 60px;
+    list-style: none;
+}
+.container li{
+    margin-top: 20px;
+}
+.container button{
+    margin-top: 20px;
+    padding: 15px;
+    width: 200px;
+    color: white;
+    border: none;
+}
+.container i{
+    margin-top: 150px;    
+}
+.blue-btn{
+    background-color: rgb(37, 154, 154) ; 
+    font-size: 17px;
+}
+.yellow-btn{
+    background-color: orange ;
+    font-size: 17px;
+}
+.green-btn{
+    background-color: darkgreen ;
+    font-size: 17px;
+}
+.section5{
+    background-image: url(HD-wallpaper-keyboard-close-up-buttons-laptop.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    color: white;
+    margin-top: 150px;
+}
+.section5 h1{
+    padding-top: 50px;
+}
+.contactus {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 150px;   
+} 
+.contactus b {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 154, 154);
+}
+.section5 button{
+    background-color: rgb(37, 154, 154);
+    color: white;
+    border: none;
+}
+.section5 p{
+    font-size: 18px;
+}
+.contactinfo{
+    display: flex;
+}
+.info{
+    flex: 1;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.inputform{
+    flex: 1;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+.contacttype{
+    display: flex;
+}
+.contact{
+    flex: 1;
+    margin-top: 20px;
+}
+.inputform input,button{
+    border: none;
+}
+.input{
+    width: 40%;
+    height: 40px;
+}
+.additionalinput{
+    margin-top: 20px;
+    width: 81%;
+    height: 22vh;
+}
+.section5 button{
+    margin-top: 20px;
+    width: 50%;
+    height: 40px;
+    margin-left: 215px;
+    font-size: 16px;
+}
+footer p{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 18px;
+}
+.socialmedia{
+    display: flex;
+    gap: 20px;
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.socialmedia div {
+    flex:1;
+    height: 50px;
+    box-shadow:  0px 0px 5px 5px rgba(20, 2, 2, 0.032);
+    gap: 20px; 
+    margin-bottom: 80px; 
+}
+.fa-brands {
+    padding: 20px;  
+}
